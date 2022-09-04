@@ -18,9 +18,9 @@
 *Webpage for travel company
 + [Webpage that is adapted for computers and phones and has an endless slider, window for registration](https://ich-kirich.github.io/Travel/)
 * Game on Java
-+ [2D game created with using libGDX](https://github.com/ich-kirich/my_first_game_on_java_pOg)
+	+ [2D game created with using libGDX](https://github.com/ich-kirich/my_first_game_on_java_pOg)
 * Discord bot on Python
-+ [Discord bot for my discord server created with using discord.py](https://github.com/ich-kirich/discord_bot)
+	+ [Discord bot for my discord server created with using discord.py](https://github.com/ich-kirich/discord_bot)
 ## Languages						
 * English – B1							
 * Russian – Native					
