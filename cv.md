@@ -15,8 +15,8 @@
  * Git
  * HTML, CSS, Javascript
 ## Projects
-*Webpage for travel company
-+ [Webpage that is adapted for computers and phones and has an endless slider, window for registration](https://ich-kirich.github.io/Travel/)
+* Webpage for travel company
+	+ [Webpage that is adapted for computers and phones and has an endless slider, window for registration](https://ich-kirich.github.io/Travel/)
 * Game on Java
 	+ [2D game created with using libGDX](https://github.com/ich-kirich/my_first_game_on_java_pOg)
 * Discord bot on Python
