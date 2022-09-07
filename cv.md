@@ -14,6 +14,7 @@
  * Python
  * Git
  * HTML, CSS, Javascript
+ * C#
 ## Projects
 * Webpage for travel company
 	+ [Webpage that is adapted for computers and phones and has an endless slider, window for registration](https://ich-kirich.github.io/Travel/)
@@ -23,8 +24,8 @@
 	+ [Discord bot for my discord server created with using discord.py](https://github.com/ich-kirich/discord_bot)
 ## Languages						
 * English – B1							
-* Russian – Native					
-* Belarussian – Native					
+* Russian – Native				
+* Belarussian – Native
 # Education
 * Yanka Kupala State University of Grodno
 	+ 2021 - Until now
